@@ -17,3 +17,6 @@ Desktop.ini
 $RECYCLE.BIN/
 *.lnk
 
+## Release notes
+release_notes*.md
+
